@@ -109,14 +109,26 @@ This project is under the MIT license. See the [LICENSE](https://github.com/elto
 ## 🚀 Frontend Technologies
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/ecoleta/blob/master/web/screenshots/ecoleta.gif" />
+	<img alt="Main Page" src="https://github.com/eltonlazzarin/ecoleta-starter/blob/master/screenshots/mainpage.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="Create Point Form" src="https://github.com/eltonlazzarin/ecoleta-starter/blob/master/screenshots/createpointform.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="Search Point" src="https://github.com/eltonlazzarin/ecoleta-starter/blob/master/screenshots/searchpoint.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="View Point" src="https://github.com/eltonlazzarin/ecoleta-starter/blob/master/screenshots/viewpoint.png" />
 </h1>
 
 Technologies that I used to develop this frontend app
 
-- [HTML5](https://nodejs.org/en)
-- [CSS3](https://www.typescriptlang.org)
-- [JavaScript](https://github.com/axios/axios)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Archive/CSS3)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Nunjucks](https://mozilla.github.io/nunjucks/getting-started.html)
 - [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
 
