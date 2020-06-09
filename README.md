@@ -104,7 +104,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Backend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta-starter/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
 
@@ -177,7 +177,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Frontend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/ecoleta-starter/blob/master/LICENSE) for more information.
 
 ---
 
